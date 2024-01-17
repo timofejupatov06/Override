@@ -1,0 +1,4 @@
+Override
+public void create() {
+batch = new SpriteBatch();
+shapeRenderer = new ShapeRenderer();
